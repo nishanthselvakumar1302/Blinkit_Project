@@ -3,6 +3,15 @@
 This repository contains an interactive Power BI dashboard that analyzes Blinkit's e-commerce performance metrics. The goal is to uncover key business insights by processing raw data collected from Kaggle, cleaning it using DAX, and designing a user-friendly dashboard.
 
 ---
+## 📁 Files in This Repository
+
+| File / Folder | Description |
+|---------------|-------------|
+| `blinkit.pbix` | Main Power BI project file |
+| `csv` | Collected Source file |
+| `images/`      | Exported visuals and dashboard screenshots |
+| `README.md`    | Project documentation |
+---
 
 ## 📥 Data Source
 
