@@ -52,8 +52,6 @@ This repository contains an interactive Power BI dashboard that analyzes Blinkit
 ### 📌 Customer Orders  
 ![Customer Orders](images/customer_orders.png)
 
-### 📌 Product Performance  
-![Product Performance](images/product_performance.png)
 
 > Save your dashboard screenshots in the `images/` folder and name them accordingly.
 
