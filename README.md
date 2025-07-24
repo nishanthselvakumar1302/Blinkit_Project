@@ -41,6 +41,15 @@ This repository contains an interactive Power BI dashboard that analyzes Blinkit
    - Scheduled refresh enabled (if applicable)
 
 ---
+## 💡 Key Insights
+
+- 📈 **Top-Selling Categories**: Grocery, dairy, and beverages accounted for over **60%** of total sales  
+- ⏰ **Peak Order Times**: Highest order volume observed between **6 PM to 9 PM**  
+- 🚚 **Delivery Analysis**:  
+  - Average delivery time under **15 minutes** for most orders  
+  - Certain cities experienced delays during weekends
+
+ ---
 
 ## 🖼️ Sample Visuals
 
